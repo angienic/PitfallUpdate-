@@ -1,0 +1,29 @@
+---
+title: "Pitfall Traps Summary for Lenka"
+author: "A.Nicolas"
+date: "March 21, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+
+```
+##Summary
+57 pitfall trap samples collected by Zelie
+
+## Abundance
+
+```{r cars}
+knitr::opts_chunk$set(echo =FALSE)
+```
+
+
+
+## Diversity
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+
+```
+
